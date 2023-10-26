@@ -1,5 +1,7 @@
 # activemq_poc
 Apache ActiveMQ (版本 &lt; 5.18.3) RCE
+
+使用jdk11
  
 Usage: java activemq_poc.jar <ip> <port> <urlfile_xmlpoc>
 
