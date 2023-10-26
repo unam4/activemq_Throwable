@@ -2,7 +2,8 @@
 Apache ActiveMQ (版本 &lt; 5.18.3) RCE
 
 使用jdk11
- ![image](https://github.com/Fw-fW-fw/activemq_Throwable/assets/66824584/19b1ea37-1657-42af-b7a8-f1b8d59c75b8)
+![image](https://github.com/Fw-fW-fw/activemq_Throwable/assets/66824584/0685c53d-59b6-458e-ad0a-d2f5b5cc46d0)
+
 
 Usage: java activemq_poc.jar <ip> <port> <urlfile_xmlpoc>
 
